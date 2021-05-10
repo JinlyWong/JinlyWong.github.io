@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jinlywong.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-05-10T01:24:35.525Z</updated>
+    <title>金梨，什麼事</title>
+    <updated>2021-05-10T01:29:18.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jinlywong.github.io"/>
     <link rel="self" href="https://jinlywong.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>金梨的創作集合站</subtitle>
     <logo>https://jinlywong.github.io/images/avatar.png</logo>
     <icon>https://jinlywong.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 金梨，什麼事</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://jinlywong.github.io/post/hello-gridea/</id>
